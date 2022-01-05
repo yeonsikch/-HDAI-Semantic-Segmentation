@@ -1,0 +1,5 @@
+OS : Ubuntu18.04
+GPU : 2080Ti
+NVIDAI-DRIVER : 455.32.00
+CUDA : 11.1
+python : 3.7.11
