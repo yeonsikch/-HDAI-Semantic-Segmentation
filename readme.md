@@ -14,3 +14,6 @@
 --./echocardiography/test/A4C/
 ```
 4. `./detection-results` 폴더에 inference 결과 파일이 생성됨.
+
+-------
+[Notion](https://yeonsikc.notion.site/HDAI-Segmentation-40cbfebc919d4ca686a925fb4ec5c015)에 학습 전략에 대한 내용이 포함되어있습니다.
